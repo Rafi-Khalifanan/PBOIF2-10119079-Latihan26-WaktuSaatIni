@@ -5,6 +5,11 @@ import java.time.format.DateTimeFormatter;
 /**
  *
  * @author Khaz
+ * NAMA     :   Rafi Khalifanan A
+ * KELAS    :   IF2
+ * NIM      :   10119079
+ * DESKRIPSI:   
+ *
  */
 
 public class PBOIF210119079Latihan26WaktuSaatIni {
