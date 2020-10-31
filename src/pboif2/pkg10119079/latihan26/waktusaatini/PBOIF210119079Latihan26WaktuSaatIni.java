@@ -8,7 +8,7 @@ import java.time.format.DateTimeFormatter;
  * NAMA     :   Rafi Khalifanan A
  * KELAS    :   IF2
  * NIM      :   10119079
- * DESKRIPSI:   
+ * DESKRIPSI:   codingan waktu saat ini
  *
  */
 
